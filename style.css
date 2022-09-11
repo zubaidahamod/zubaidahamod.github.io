@@ -149,6 +149,10 @@ h5.heading {
 
 /*--- Bridal Packages ---*/
 
+#aftercare {
+    background-color: #e9ecef;
+}
+
 #booking {
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;

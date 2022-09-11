@@ -81,7 +81,7 @@ h3.heading {
   font-size: 1.9rem;
   font-weight: 700;
   text-transform: uppercase;
-  padding-top: 0;
+  padding-top: .5rem;
   padding-bottom: .5rem;
 }
 

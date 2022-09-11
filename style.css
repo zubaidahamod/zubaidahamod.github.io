@@ -167,6 +167,10 @@ li.aftercare {
   font-size: .9rem;
 }
 
+#designs {
+   overflow-x: hidden;
+}
+
 #prices {
    background-color: #e9ecef;
    overflow-x: hidden;
@@ -174,6 +178,7 @@ li.aftercare {
 }
 
 #pricetable2 {
+  background-color: #e9ecef;
   font-family: 'Lato', sans-serif;
   border-collapse: collapse;
   width: 50%;

@@ -79,13 +79,6 @@ h3.heading {
   font-size: 1.9rem;
   font-weight: 700;
   text-transform: uppercase;
-  padding-bottom: .5rem;
-}
-
-h4.heading {
-  font-size: 1.9rem;
-  font-weight: 700;
-  text-transform: uppercase;
   padding-bottom: 1.9rem;
 }
 
@@ -94,7 +87,6 @@ h5.heading {
   font-weight: 700;
   text-transform: uppercase;
   padding-top: 1rem;
-
 }
 
 .heading-underline {
@@ -192,6 +184,10 @@ h5.heading {
 }
 
 /*--- About me ---*/
+h3.about-description {
+  margin-top: 0;
+}
+
 /*--- Contact ---*/
 footer {
   background: rgba(0, 0, 0, .6)!important;

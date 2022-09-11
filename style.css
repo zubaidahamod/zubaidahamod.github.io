@@ -238,10 +238,6 @@ table.center {
   margin-right:auto;
 }
 
-form {
-  padding-bottom: 5px;
-}
-
 /* Style inputs, select elements and textareas */
 input[type=text], select, textarea{
   width: 100%;
@@ -274,6 +270,10 @@ input[type=submit] {
   border-radius: 5px;
   background-color: #e9ecef;
   padding: 20px;
+}
+
+form {
+  margin-bottom: 0;
 }
 
 /* Floating column for labels: 25% width */

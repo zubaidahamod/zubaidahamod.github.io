@@ -186,7 +186,28 @@ footer svg.svg-inline--fa:hover {
   color: #eeb5b0;
 }
 
+li span {
+  position: relative;
+  left: -10px;
+}
 
+table td, th{
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #eeb5b0;
+  color: #ffffff;
+}
+
+table.center {
+  margin-left:auto;
+  margin-right:auto;
+}
 
 /* Style inputs, select elements and textareas */
 input[type=text], select, textarea{
@@ -276,6 +297,8 @@ input[type=submit] {
     font-size: 1rem;
   }
 }
+
+
 
 /*============ BOOTSTRAP BREAK POINTS:
 

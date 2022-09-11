@@ -169,8 +169,14 @@ li.aftercare {
 
 #prices {
    background-color: #e9ecef;
-    overflow-x: hidden;
-    font-family: 'Lato', sans-serif;
+   overflow-x: hidden;
+   font-family: 'Lato', sans-serif;
+}
+
+#pricetable2 {
+  font-family: 'Lato', sans-serif;
+  border-collapse: collapse;
+  width: 50%;
 }
 
 /*--- About me ---*/

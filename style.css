@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
+h1 {
+  font-family: 'Lato Bold', sans-serif;
+}
+
 body {
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;

@@ -215,10 +215,6 @@ table.center {
   margin-right:auto;
 }
 
-.pricetable2 {
-  width: 40%;
-}
-
 /* Style inputs, select elements and textareas */
 input[type=text], select, textarea{
   width: 100%;

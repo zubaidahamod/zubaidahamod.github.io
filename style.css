@@ -153,6 +153,10 @@ h5.heading {
     background-color: #e9ecef;
 }
 
+li.aftercare {
+  padding-left:1em;
+}
+
 #booking {
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;

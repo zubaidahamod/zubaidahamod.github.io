@@ -158,12 +158,19 @@ li.aftercare {
   font-family: 'Lato', sans-serif;
 }
 
+#aftercare {
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+}
+
 #credits {
   font-size: .9rem;
 }
 
 #prices {
    background-color: #e9ecef;
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
 }
 
 /*--- About me ---*/

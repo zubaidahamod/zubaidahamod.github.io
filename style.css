@@ -150,8 +150,6 @@ h5.heading {
 /*--- Bridal Packages ---*/
 
 li.aftercare {
-  margin-left: auto;
-  margin-right: auto;
   list-style-position: inside;
 }
 
@@ -162,18 +160,6 @@ li.aftercare {
 
 #credits {
   font-size: .9rem;
-}
-
-#bridal {
-  background-color: #e9ecef;
-}
-
-#medium {
-   background-color: #e9ecef;
-}
-
-#designs {
-  background-color: #e9ecef;
 }
 
 #aftercare {

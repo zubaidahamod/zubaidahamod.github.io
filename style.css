@@ -154,6 +154,7 @@ li.aftercare {
 }
 
 #booking {
+  background-color: #e9ecef;
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;
 }
@@ -178,7 +179,6 @@ li.aftercare {
 }
 
 #pricetable2 {
-  background-color: #e9ecef;
   font-family: 'Lato', sans-serif;
   border-collapse: collapse;
   width: 50%;

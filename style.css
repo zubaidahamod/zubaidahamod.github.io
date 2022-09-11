@@ -149,7 +149,7 @@ h5.heading {
 
 /*--- Bridal Packages ---*/
 
-li.aftercare {
+#aftercare li {
   list-style-position: inside;
 }
 

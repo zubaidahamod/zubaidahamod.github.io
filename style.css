@@ -190,8 +190,8 @@ footer svg.svg-inline--fa:hover {
   color: #eeb5b0;
 }
 
-ul span {
-  position: relative;
+li span {
+  position: absolute;
   left: -10px;
 }
 

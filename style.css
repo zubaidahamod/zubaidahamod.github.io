@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
-h1 {
-  font-weight: bold;
-}
-
 body {
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;
@@ -56,6 +52,8 @@ body {
   width: 100%;
   right: 0;
   left: 0;
+  font-weight: bold;
+  text-shadow: 2px 2px #000000;
 }
 
 .narrow {

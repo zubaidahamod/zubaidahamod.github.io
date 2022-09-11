@@ -98,8 +98,7 @@ h5.heading {
   width: 4rem;
   height: .2rem;
   background-color: #eeb5b0;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 0.5rem;
   margin-bottom: 0.5rem;
 }
 

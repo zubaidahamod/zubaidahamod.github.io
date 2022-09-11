@@ -190,11 +190,6 @@ footer svg.svg-inline--fa:hover {
   color: #eeb5b0;
 }
 
-li span {
-  position: absolute;
-  left: -10px;
-}
-
 table td, th{
   border: 1px solid #ddd;
   padding: 8px;

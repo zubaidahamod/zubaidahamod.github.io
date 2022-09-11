@@ -152,6 +152,7 @@ h5.heading {
 li.aftercare {
   margin-left: auto;
   margin-right: auto;
+  list-style-position: inside;
 }
 
 #booking {
@@ -213,7 +214,7 @@ footer svg.svg-inline--fa:hover {
 table td, th{
   border: 1px solid #ddd;
   padding: 8px;
-  width: 40%;
+  width: 75%;
 }
 
 table th {

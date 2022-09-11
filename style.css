@@ -197,12 +197,16 @@ footer svg.svg-inline--fa:hover {
   color: #eeb5b0;
 }
 
-table td, th{
+table td {
   border: 1px solid #ddd;
-  padding: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 
 table th {
+  border: 1px solid #ddd;
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;

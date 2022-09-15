@@ -313,8 +313,8 @@ input[type=submit] {
 }
 
 .sub {
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 17px;
+  margin-bottom: 2px;
   position: absolute;
 }
 

@@ -168,6 +168,7 @@ h5.heading {
   font-family: 'Lato', sans-serif;
   margin-left: auto;
   margin-right: auto;
+  position: absolute;
 }
 
 #credits {
@@ -314,6 +315,7 @@ input[type=submit] {
 .sub {
   margin-right: auto;
   margin-left: auto;
+  position: absolute;
 }
 
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */

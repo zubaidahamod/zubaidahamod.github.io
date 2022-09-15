@@ -154,6 +154,8 @@ h5.heading {
 
 #aftercare li {
   list-style-position: inside;
+  text-align: center;
+  margin: auto;
 }
 
 #booking {

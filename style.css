@@ -312,7 +312,8 @@ input[type=submit] {
 }
 
 .sub {
-  margin-right: 17px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */

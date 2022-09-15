@@ -277,7 +277,7 @@ input[type=submit] {
   color: white;
   padding: 12px 20px;
   border: none;
-  border-radius: 4px;
+  border-radius: 3px;
   cursor: pointer;
   float: right;
   margin-left: auto;
@@ -314,7 +314,8 @@ input[type=submit] {
 }
 
 .sub {
-  margin-right: 17px;
+  margin-right: auto;
+  margin-left: auto;
   margin-bottom: 2px;
 }
 

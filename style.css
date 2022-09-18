@@ -154,7 +154,6 @@ h5.heading {
 
 #aftercare li {
   list-style-position: inside;
-  text-align: center;
 }
 
 #booking {
@@ -169,6 +168,7 @@ h5.heading {
   font-family: 'Lato', sans-serif;
   margin-left: auto;
   margin-right: auto;
+  padding: 2px;
 }
 
 #credits {

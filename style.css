@@ -156,6 +156,15 @@ h5.heading {
   padding: 2px;
 }
 
+.about-description {
+  display: flex;
+  justify-content: center;
+}
+
+.about-description .col-12 {
+  max-width: 80%; /* Set a maximum width for the content (adjust as needed) */
+}
+
 #credits {
   font-size: .9rem;
 }
@@ -318,17 +327,17 @@ input[type=submit] {
     letter-spacing: .15rem;
     padding-bottom: .5rem;
   }
-
-  .about-description .text-center {
-    padding-left: 0;
-    padding-right: 0;
-  }
   
   .carousel-caption h3 {
     font-size: 1.2rem;
     padding-bottom: 1.2rem;
   }
 
+.card {
+  max-width: 20%;
+  display: inline-block;
+}
+  
   .narrow h1{
     font-size: 1.5rem;
   }

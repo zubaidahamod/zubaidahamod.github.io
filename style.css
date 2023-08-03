@@ -153,7 +153,6 @@ h5.heading {
 #aftercare {
   overflow-x: hidden;
   font-family: 'Lato', sans-serif;
-  padding: 2px;
 }
 
 .about-description {
@@ -353,12 +352,16 @@ input[type=submit] {
     padding-bottom: 1.2rem;
   }
 
-.card {
-  max-width: 25%;
-  display: inline-block;
-  padding-left: 0px;
-  padding-right: 0px;
-}
+  .card {
+    max-width: 25%;
+    display: inline-block;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  #pricetable2 {
+      width: 95%;
+  }
   
   .narrow h1{
     font-size: 1.5rem;

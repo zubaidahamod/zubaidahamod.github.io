@@ -165,6 +165,24 @@ h5.heading {
   max-width: 80%; /* Set a maximum width for the content (adjust as needed) */
 }
 
+/* Remove default list styles and adjust bullet points */
+.about-description ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.about-description li {
+  padding-left: 2px; /* Add indentation to the list items (adjust as needed) */
+  position: relative;
+}
+
+.about-description li:before {
+  content: "•"; /* Use a bullet point character as the marker */
+  position: absolute;
+  left: 0;
+}
+
 #credits {
   font-size: .9rem;
 }

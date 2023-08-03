@@ -122,7 +122,6 @@ h5.heading {
 /*--- Prices ---*/
 .pricetable {
   margin: 0 auto;
-  padding: 10px;
   text-align: center;
 }
 
@@ -131,10 +130,6 @@ h5.heading {
   display: inline-block;
 }
 
-.card p {
- padding: 0px;
- margin: 0px;
-}
 
 .price {
   color: grey;

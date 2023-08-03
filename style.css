@@ -127,13 +127,9 @@ h5.heading {
 }
 
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 200px;
   margin: 20px;
-  text-align: center;
-  font-family: 'Lato', sans-serif;
   display: inline-block;
-  padding: 10px;
 }
 
 .card p {
@@ -146,9 +142,6 @@ h5.heading {
   font-size: 20px;
 }
 
-.card img {
-  padding: 10px;
-}
 
 /*--- Bridal Packages ---*/
 

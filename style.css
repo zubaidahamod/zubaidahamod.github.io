@@ -175,7 +175,9 @@ h5.heading {
 .about-description li {
   padding-left: 2px; /* Add indentation to the list items (adjust as needed) */
   position: relative;
+  display: inline-block; /* Use inline-block instead of absolute positioning */
 }
+
 
 .about-description li:before {
   content: "•"; /* Use a bullet point character as the marker */

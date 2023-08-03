@@ -319,7 +319,7 @@ input[type=submit] {
     padding-bottom: .5rem;
   }
 
-  .remove-mobile-padding {
+  .about-description .text-center {
     padding-left: 0;
     padding-right: 0;
   }

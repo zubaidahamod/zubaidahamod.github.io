@@ -173,6 +173,10 @@ h5.heading {
 
 .about-description .col-12 {
   max-width: 80%; /* Set a maximum width for the content (adjust as needed) */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items vertically */
+  justify-content: center;
 }
 
 /* Remove default list styles and adjust bullet points */

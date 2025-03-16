@@ -145,6 +145,10 @@ h5.heading {
 }
 */
 
+.about-description .col-sm-4 {
+  width: 80%; /* Make sure the image containers are wide enough */
+  max-width: 80%;
+}
 
 #aftercare img {
   width: 80vw; /* 80% of the viewport width */

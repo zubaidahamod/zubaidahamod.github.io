@@ -182,6 +182,8 @@ h5.heading {
   flex-direction: column;
   align-items: center; /* Center items vertically */
   justify-content: center;
+  padding-top: 0 !important; /* Remove excess padding */
+  margin-top: 0 !important;
 }
 
 /* Remove default list styles and adjust bullet points */

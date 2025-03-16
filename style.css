@@ -145,8 +145,12 @@ h5.heading {
 }
 */
 
+
 #aftercare img {
-  max-width: 100%;
+  width: 80vw; /* 80% of the viewport width */
+  max-width: 80%; /* Ensures the image does not exceed 80% */
+  display: block;
+  margin: 0 auto;
   transition: transform .5s ease;
 }
 

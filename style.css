@@ -155,6 +155,7 @@ h5.heading {
   max-width: 80%; /* Ensures the image does not exceed 80% */
   display: block;
   margin: 0 auto;
+  margin-top: 0;
   transition: transform .5s ease;
 }
 

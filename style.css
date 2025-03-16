@@ -143,6 +143,11 @@ h5.heading {
   list-style-position: inside;
 }
 
+.aftercare img {
+  max-width: 100%;
+  transition: transform .5s ease;
+}
+
 #booking {
   background-color: #e9ecef;
   overflow-x: hidden;
